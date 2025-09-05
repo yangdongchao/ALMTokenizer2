@@ -41,7 +41,7 @@ bash infer.sh
 | ALMTokenizer (3 RVQ) |  2.0 | 0.81  |     1.78     |
 | ALMTokenizer (8 RVQ) | 2.63 |  0.86 |     1.57     |
 |   MimiCodec (8RVQ)   |  2.1 |  0.82 |     1.60     |
-|     ALMTokeizer2     | 2.99 |  0.86 |     1.44     |
+|     ALMTokeizer2 (8RVQ)    | 2.99 |  0.86 |     1.44     |
 
 ## Plan
 
